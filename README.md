@@ -1,13 +1,13 @@
 ## Hi, I'm James 👋
 
-<p>
+<h3>
   <em>Senior Front End Engineer @ <a href="https://www.linkedin.com/company/arrow-electronics/">Arrow Electronics</a></em>
-</p>
+</h3>
 
 [![James Hall](https://img.shields.io/badge/James-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-hall-treworgy-064b5a112/)
 
-## My Tech Stack :heavy_check_mark:
-![Rust](https://img.shields.io/badge/rust-%23F05033.svg?style=for-the-badge&logo=rust&logoColor=white) 
+## Tech Stack 🚀
+![Rust](https://img.shields.io/badge/rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
