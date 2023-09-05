@@ -1,7 +1,7 @@
 ## Hi, I'm James 👋
 
 <h3>
-  <em>Senior Front End Engineer @ <a href="https://www.linkedin.com/company/arrow-electronics/">Arrow Electronics</a></em>
+  <em>Senior Frontend Engineer @ <a href="https://www.linkedin.com/company/clickup-app/">ClickUp</a></em>
 </h3>
 
 [![James Hall](https://img.shields.io/badge/James-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-hall-treworgy-064b5a112/)
